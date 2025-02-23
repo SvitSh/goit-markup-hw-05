@@ -34,7 +34,7 @@ img {
   margin: 0 auto;
 }
 
-/* ------------header -----------*/
+/*#region header*/
 .header {
   border-bottom: 1px solid #e7e9fc;
   box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08),
@@ -142,7 +142,7 @@ img {
 .link-adr:focus {
   color: #404bbf;
 }
-/* header end */
+/*#endregion header*/
 
 /* ----------------section------------- 1 */
 .main-page {
